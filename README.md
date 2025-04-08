@@ -1,2 +1,2 @@
-# FC_Dallas_Data_Collection
+# Sports Data Analytics Projects 
 Collecting Game by Game data for FC Dallas
