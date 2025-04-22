@@ -5,4 +5,4 @@ File Descriptions
 
 Data_Scrape.R: scraping and organizing game data from fbref
 
-xG_Model.py: expeccted goals model from a data set provided, data visualization and data cleaning are highlighted in this project
+xG_Model.py: expected goals model from a data set provided, data visualization and data cleaning are highlighted in this project
